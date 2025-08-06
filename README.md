@@ -5,7 +5,7 @@
 I'm a **Full Stack Web Developer** from **South Africa 🇿🇦**, with a solid foundation in **JavaScript, React, Tailwind CSS, Node.js, and Python**.  
 I studied through **IT Varsity** and the **FNB App Academy**, where I built real-world projects in environments that reflect modern dev teams.
 
-I leverage 10+ years of client-facing experience to inform how I build across the stack — blending clear communication, collaborative problem-solving, and precision. I’m focused on delivering performant, accessible, and scalable solutions that prioritize real user needs.
+I leverage **10+ years of client-facing experience** to inform how I build across the stack — blending **clear communication, collaborative problem-solving**, and **precision**. I’m focused on delivering **performant**, **accessible**, and **scalable** solutions that prioritize **real user needs**.
 🚀 *Always learning. Always building.*  
 📦 *Explore my repositories to see what I’m working on.*
 
