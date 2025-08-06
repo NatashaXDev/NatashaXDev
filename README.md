@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Natasha Smith | Full Stack Developer ZA 🧩
+# 👩🏽‍💻 Natasha Smith | Full Stack Developer 🧩
 
 ### Code, Creativity & Continuous Growth in Web Development.
 
