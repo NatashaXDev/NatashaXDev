@@ -1,8 +1,11 @@
-**<h1 align="left">👩🏽‍💻 Natasha Smith |Full Stack Developer 🧩</h1>**
+**<h1 align="left">👩🏽‍💻 Natasha Smith | Full Stack Developer 🇿🇦 🧩</h1>**
 
-<h3 align="center">A showcase of projects, skills and growth as a Developer.</h3>
-<h3 align="left"> I'm a passionate Full Stack Developer from South Africa 🇿🇦 with a strong foundation in JavaScript, React, Tailwind CSS, Phyton and Node.js, along with experience in databases and version control using Git and GitHub.🎓 I trained through FNB App Academy and IT Varsity, where I worked on real-world projects and simulations that mirror actual developer environments.💡 My journey into tech is backed by 10+ years of experience in client service and marketing — skills that sharpen my ability to build user-focused, scalable, and accessible web applications from front to back.🚀 Always learning. Always building.
-📦 Check out my repositories to see how I bring full-stack ideas to life.</h3>
+<h3 align="center">Code, Creativity & Continuous growth in Web Development.</h3>
+<h3 align="left"> I'm a Full Stack Web Developer from South Africa 🇿🇦 with a solid foundation in JavaScript, React, Tailwind CSS, Node.js, and Python. I trained through IT Varsity and the FNB App Academy, where I built real-world projects in environments that reflect modern dev teams.
+
+I bring 10+ years of prior experience in client-facing roles — combining technical skills with communication, collaboration, and an eye for detail. I'm passionate about creating clean, accessible, and scalable solutions across the stack.  
+🚀 Always learning. Always building.  
+📦 Explore my repositories to see what I’m working on..</h3>
 <hr>
 
 - 🔭 I’m currently working on [Apple clone page](https://github.com/NatashaXDev/apple-inspired-homepage.git)
