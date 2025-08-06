@@ -1,5 +1,5 @@
 <h1 align="left">👩🏽‍💻 Natasha Smith |Full Stack Developer 🧩</h1>
-<h3 align="left">A showcase of projects, skills and growth as a Developer.</h3>
+<h3 align="centered">A showcase of projects, skills and growth as a Developer.</h3>
 <h4 align="left"> I'm a passionate Full Stack Developer from South Africa 🇿🇦 with a strong foundation in JavaScript, React, Tailwind CSS, Phyton and Node.js, along with experience in databases and version control using Git and GitHub.
 
 🎓 I trained through FNB App Academy and IT Varsity, where I worked on real-world projects and simulations that mirror actual developer environments.
