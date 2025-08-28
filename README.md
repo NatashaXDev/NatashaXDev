@@ -17,6 +17,7 @@ I leverage **10+ years of client-facing experience** to inform how I build acros
 
 - 👨‍💻 All of my projects are available at [https://github.com/NatashaXDev](https://github.com/NatashaXDev) 
   https://natashaxdev.github.io/Richbean-Coffee-Shop/ 
+  https://natashaxdev.github.io/Resume-App/
 
 - 💬 Ask me about **React, HMTL5, CSS3**
 
