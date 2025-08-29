@@ -13,11 +13,32 @@ I leverage **10+ years of client-facing experience** to inform how I build acros
 
 - 🔭 I’m currently working on [Apple clone page](https://github.com/NatashaXDev/apple-inspired-homepage.git)
 
-- 🌱 I’m currently learning **Azure Frameworks**
+<section class="projects-section">
+  <h2>🚀 Live Projects</h2>
+  <ul class="project-links">
+    <li>
+      <a href="https://github.com/NatashaXDev" target="_blank">
+        🌐 GitHub Profile
+      </a>
+    </li>
+    <li>
+      <a href="https://natashaxdev.github.io/Richbean-Coffee-Shop/" target="_blank">
+        ☕ Richbean Coffee Shop
+      </a>
+    </li>
+    <li>
+      <a href="https://natashaxdev.github.io/Resume-App/" target="_blank">
+        📄 Resume Builder
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_blank">
+        🍎 Apple Clone Page (Coming soon)
+      </a>
+    </li>
+  </ul>
+</section>
 
-- 👨‍💻 All of my projects are available at [https://github.com/NatashaXDev](https://github.com/NatashaXDev) 
-  https://natashaxdev.github.io/Richbean-Coffee-Shop/ 
-  https://natashaxdev.github.io/Resume-App/
 
 - 💬 Ask me about **React, HMTL5, CSS3**
 
