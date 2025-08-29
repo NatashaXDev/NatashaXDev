@@ -32,7 +32,7 @@ I leverage **10+ years of client-facing experience** to inform how I build acros
       </a>
     </li>
      <li>
-      <a href="https://natashaxdev.github.io/Resume-App/" target="_blank">
+      <a href="https://natashaxdev.github.io/VaultScore/" target="_blank">
         📄 Credit Score Increasing App
       </a>
     </li>
