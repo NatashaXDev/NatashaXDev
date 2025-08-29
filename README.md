@@ -31,6 +31,11 @@ I leverage **10+ years of client-facing experience** to inform how I build acros
         📄 Resume Builder
       </a>
     </li>
+     <li>
+      <a href="https://natashaxdev.github.io/Resume-App/" target="_blank">
+        📄 Credit Score Increasing App
+      </a>
+    </li>
     <li>
       <a href="#" target="_blank">
         🍎 Apple Clone Page (Coming soon)
