@@ -37,7 +37,7 @@ I leverage **10+ years of client-facing experience** to inform how I build acros
       </a>
     </li>
     <li>
-      <a (https://natashaxdev.github.io/Mason-Learns/)" target="_blank">
+      <a href= "https://natashaxdev.github.io/Mason-Learns/" target="_blank">
         👦🏻 Application for Toddler Named Mason
       </a>
     </li>
