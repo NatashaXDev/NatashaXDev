@@ -57,6 +57,7 @@ I'm a **Full Stack Web Developer** from South Africa 🇿🇦, passionate about 
 - Dynamic resume creation and customization
 - Modern, responsive design
 - User-friendly interface for professional presentation
+- [Live Site](https://natashaxdev.github.io/Resume-App/)
 
 ### 🔐 VaultScore
 **Improve your Credit Score**
