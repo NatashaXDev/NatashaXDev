@@ -61,9 +61,9 @@ I'm a **Full Stack Web Developer** from South Africa 🇿🇦, passionate about 
 
 ### 🔐 VaultScore
 **Improve your Credit Score**
-💰 Monthly Deposit System - Clear savings mechanism
-📊 Interest-Bearing Accounts - Money growth component
-📈 Credit Bureau Reporting - The unique credit-building feature
+- Monthly Deposit System - Clear savings mechanism
+- Interest-Bearing Accounts - Money growth component
+- Credit Bureau Reporting - The unique credit-building feature
 - [Live Site](https://natashaxdev.github.io/VaultScore/)
 
 ---
