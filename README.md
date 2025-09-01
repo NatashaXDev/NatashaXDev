@@ -43,14 +43,6 @@ I'm a **Full Stack Web Developer** from South Africa 🇿🇦, passionate about 
 
 ---
 
-## 🔭 What I'm Currently Working On
-
-- 🍎 **[Apple Clone Homepage](https://github.com/NatashaXDev/apple-inspired-homepage)** - Recreating Apple's sleek design with modern web technologies
-- 🤖 **[UbuntuCare](https://natashaxdev.github.io/UbuntuCare/)** - AI-powered trauma support platform for South African communities
-- 🌱 **Always learning** new technologies and best practices
-
----
-
 ## 🌟 Featured Projects
 
 ### 🤝 UbuntuCare
@@ -60,11 +52,17 @@ I'm a **Full Stack Web Developer** from South Africa 🇿🇦, passionate about 
 - Privacy-first design with emergency resource integration
 - [Live Site](https://natashaxdev.github.io/UbuntuCare/)
 
-### 🍎 Apple-Inspired Homepage
-**Modern Frontend Showcase**
-- Pixel-perfect recreation of Apple's design language
-- Responsive design with smooth animations
-- Performance-optimized implementation
+### 📄 Resume App
+**Interactive Resume Builder**
+- Dynamic resume creation and customization
+- Modern, responsive design
+- User-friendly interface for professional presentation
+
+### 🔐 VaultScore
+**Secure Password Management Solution**
+- Advanced password generation and storage
+- Security-focused architecture
+- User authentication and data protection
 
 ---
 
@@ -77,7 +75,7 @@ I believe in:
 - 🌍 **Accessibility first** - Technology should be inclusive
 - 🚀 **Performance matters** - Fast, efficient, scalable solutions
 - 🤝 **Collaborative development** - Great software is built by great teams
-- 📚 **Continuous learning** - Staying current with evolving technologies
+- 📚 **Continuous learning** - Always growing and adapting with new technologies
 
 
 
