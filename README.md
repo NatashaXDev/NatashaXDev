@@ -21,21 +21,25 @@ I'm a **Full Stack Web Developer** from South Africa 🇿🇦, passionate about 
 
 ## 💻 Tech Stack
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Frontend Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### Backend Technologies
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
@@ -75,17 +79,7 @@ I believe in:
 - 🤝 **Collaborative development** - Great software is built by great teams
 - 📚 **Continuous learning** - Staying current with evolving technologies
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Natasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatashaXDev&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaXDev&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
@@ -112,6 +106,31 @@ Understanding of UX/UI principles ensures development that's both functional and
 [![Email](https://img.shields.io/badge/-contact.natashsmith@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.natashsmith@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natasha-s-209970375/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NatashaXDev)
+
+</div>
+
+---
+
+## 💬 Ask Me About
+
+- ⚛️ **React** development and best practices
+- 🎨 **HTML5 & CSS3** modern techniques
+- 🚀 **Performance optimization** strategies
+- 🌍 **Accessibility** implementation
+- 🤝 **User experience** design principles
+- 🇿🇦 **Tech community** in South Africa
+
+---
+
+<div align="center">
+
+### 🚀 Always Learning. Always Building. Always Growing.
+
+*"Great developers aren't born, they're built through curiosity, practice, and the courage to solve problems that matter."*
+
+⭐ **Feel free to explore my repositories and star any projects that interest you!** ⭐
+
+</div>
 
 </div>
 
