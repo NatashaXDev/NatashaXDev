@@ -59,10 +59,11 @@ I'm a **Full Stack Web Developer** from South Africa 🇿🇦, passionate about 
 - User-friendly interface for professional presentation
 
 ### 🔐 VaultScore
-**Secure Password Management Solution**
-- Advanced password generation and storage
-- Security-focused architecture
-- User authentication and data protection
+**Improve your Credit Score**
+💰 Monthly Deposit System - Clear savings mechanism
+📊 Interest-Bearing Accounts - Money growth component
+📈 Credit Bureau Reporting - The unique credit-building feature
+- [Live Site](https://natashaxdev.github.io/VaultScore/)
 
 ---
 
