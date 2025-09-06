@@ -14,6 +14,7 @@ I'm a **Full Stack Web Developer** from South Africa 🇿🇦, passionate about 
 
 ### 🎓 Education & Training
 - **IT Varsity** - Comprehensive web development program
+- **AWS** - Solutions Architect 
 - **FNB App Academy** - Real-world project experience in modern dev team environments
 - **10+ years** of client-facing experience informing my full-stack approach
 
