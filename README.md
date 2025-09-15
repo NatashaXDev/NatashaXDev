@@ -21,6 +21,7 @@ Full Stack Developer with 10+ years of client-facing experience, blending techni
 - **[UbuntuCare](https://natashaxdev.github.io/UbuntuCare/)** - AI-Powered Trauma Support Platform
 - **[Resume App](https://natashaxdev.github.io/Resume-App/)** - Interactive Resume Builder
 - **[VaultScore](https://natashaxdev.github.io/VaultScore/)** - Credit Score Improvement Platform
+- **[Community Alert](https://natashaxdev.github.io/Community-alert/)** - Neighborhood Watch & Safety App
 
 ## 💡 Philosophy
 
@@ -38,8 +39,10 @@ I believe in user-centered design, accessibility first, performance, collaborati
 ## 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/-contact.natashsmith@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:contact.natashsmith@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natasha-s-209970375/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/NatashaXDev)
 
 ---
 
+**Always Learning. Always Building. Always Growing.**
 **Always Learning. Always Building. Always Growing.**
