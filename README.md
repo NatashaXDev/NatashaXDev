@@ -19,7 +19,7 @@ Full Stack Developer with 10+ years of client-facing experience, blending techni
 ## 🌟 Featured Live Projects
 
 - **[UbuntuCare](https://natashaxdev.github.io/UbuntuCare/)** - AI-Powered Trauma Support Platform
-- **[Resume App](https://natashaxdev.github.io/Resume-App/)** - Interactive Resume Builder
+- **[Signal Guard](https://natashaxdev.github.io/signal-guard-app/))** - Signal Guard detects car key jammer attacks in real-time and alerts you with a loud alarm to prevent vehicle theft.
 - **[VaultScore](https://natashaxdev.github.io/VaultScore/)** - Credit Score Improvement Platform
 - **[Community Alert](https://natashaxdev.github.io/Community-alert/)** - Neighborhood Watch & Safety App
 
