@@ -19,7 +19,7 @@ Full Stack Developer with 10+ years of client-facing experience, blending techni
 ## 🌟 Featured Live Projects
 
 - **[UbuntuCare](https://natashaxdev.github.io/UbuntuCare/)** - AI-Powered Trauma Support Platform
-- **[Signal Guard](https://natashaxdev.github.io/signal-guard-app/)** - Signal Guard detects car key jammer attacks in real-time and alerts you with a loud alarm to prevent vehicle theft.
+- **[Signal Guard](https://natashaxdev.github)** - Signal Guard detects car key jammer attacks in real-time and alerts you with a loud alarm to prevent vehicle theft.
 - **[VaultScore](https://natashaxdev.github.io/VaultScore/)** - Credit Score Improvement Platform
 - **[Community Alert](https://natashaxdev.github.io/Community-alert/)** - Neighborhood Watch & Safety App
 
@@ -38,7 +38,7 @@ I believe in user-centered design, accessibility first, performance, collaborati
 
 ## 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/-contact.natashsmith@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:contact.natashsmith@gmail.com)
+[![Email](https://img.shields.io/badge/-contact.natashsmith@gmail.com-D14836?logo=gmail&logoColor=white)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/NatashaXDev)
 
 ---
