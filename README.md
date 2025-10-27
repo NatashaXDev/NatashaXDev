@@ -38,7 +38,6 @@ I believe in user-centered design, accessibility first, performance, collaborati
 
 ## 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/-contact.natashsmith@gmail.com-D14836?logo=gmail&logoColor=white)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/NatashaXDev)
 
 ---
