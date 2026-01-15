@@ -1,12 +1,15 @@
 # Hi there, I'm Natasha Smith! 👋
 
-**Full Stack Web Developer** from South Africa 🇿🇦 | Passionate about performant, accessible, and scalable solutions
+**Full Stack Web Developer** based in South Africa, focused on building performant, accessible, and scalable web applications.
 
 ## 🚀 About Me
 
-Full Stack Developer with 10+ years of client-facing experience, blending technical precision with exceptional communication and collaborative problem-solving.
+I’m a full-stack developer with over 10 years of client-facing experience, combining strong technical execution with clear communication and collaborative problem-solving. I enjoy translating complex requirements into reliable, production-ready solutions.
 
-**Education & Training:** AWS Solutions Architect, FNB App Academy, IT Varsity
+**Education & Training:** 
+AWS Solutions Architect
+FNB App Academy
+IT Varsity
 
 ## 💻 Tech Stack
 
