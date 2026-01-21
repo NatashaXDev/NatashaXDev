@@ -7,9 +7,7 @@
 I’m a full-stack developer with over 10 years of client-facing experience, combining strong technical execution with clear communication and collaborative problem-solving. I enjoy translating complex requirements into reliable, production-ready solutions.
 
 **Education & Training:** 
-AWS Solutions Architect <br></br>
-FNB App Academy
-IT Varsity
+AWS Solutions Architect, FNB App Academy, IT Varsity (Full Stack Developer Program)
 
 ## 💻 Tech Stack
 
