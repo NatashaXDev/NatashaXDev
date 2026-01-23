@@ -2,7 +2,7 @@
 
 **Full Stack Web Developer** based in South Africa, focused on building performant, accessible, and scalable web applications.
 
-## 🚀 About Me
+## About Me
 
 I’m a full-stack developer with over 10 years of client-facing experience, combining strong technical execution with clear communication and collaborative problem-solving. I enjoy translating complex requirements into reliable, production-ready solutions.
 
