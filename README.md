@@ -17,7 +17,7 @@ AWS Solutions Architect, FNB App Academy, IT Varsity (Full Stack Developer Progr
 
 **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-## 🌟 Featured Live Projects
+## 🌟 Featured Live Projects 
 
 - **[UbuntuCare](https://natashaxdev.github.io/UbuntuCare/)** - AI-Powered Trauma Support Platform
 - **[Signal Guard](https://natashaxdev.github)** - Signal Guard detects car key jammer attacks in real-time and alerts you with a loud alarm to prevent vehicle theft.
