@@ -21,7 +21,6 @@ AWS Solutions Architect, FNB App Academy, IT Varsity (Full Stack Developer Progr
 
 - **[UbuntuCare](https://natashaxdev.github.io/UbuntuCare/)** - AI-Powered Trauma Support Platform
 - **[Signal Guard](https://natashaxdev.github)** - Signal Guard detects car key jammer attacks in real-time and alerts you with a loud alarm to prevent vehicle theft.
-- **[VaultScore](https://natashaxdev.github.io/VaultScore/)** - Credit Score Improvement Platform
 - **[Community Alert](https://natashaxdev.github.io/Community-alert/)** - Neighborhood Watch & Safety App
 
 ## 💡 Philosophy
